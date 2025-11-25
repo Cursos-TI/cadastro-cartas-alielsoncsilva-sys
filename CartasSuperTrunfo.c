@@ -1,11 +1,13 @@
 #include <stdio.h>
 
 int main() {
-  // Área para definição das variáveis para armazenar as propriedades das cidades
+    printf("Desafio cartas Super Trunfo")
 
-  // Área para entrada de dados
 
-  // Área para exibição dos dados da cidade
+
+
+
+
 
 return 0;
 } 
